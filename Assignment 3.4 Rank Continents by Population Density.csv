@@ -1,0 +1,9 @@
+continent,total_population,total_area,population_density,density_rank
+Asia,3705025700,31881005,116.2142,1
+Europe,730074600,23049133.9,31.6747,2
+Africa,784475000,30250377,25.9327,3
+North America,482993000,24214470,19.9465,4
+South America,345780000,17864926,19.3552,5
+Oceania,30401150,8564294,3.5498,6
+Antarctica,0,13132101,0,7
+,,,,
